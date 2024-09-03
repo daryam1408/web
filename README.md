@@ -4,3 +4,4 @@
 ### <li> [Test Suite](https://app.qase.io/project/G8?author=233)
 ### <li> [Test Cases](https://github.com/daryam1408/web/blob/main/Test%20Cases%20-%20Web%20App%20Testing.pdf)
 ### <li> [Web Page](https://drive.google.com/file/d/1nB-8ReXpNCnPKGpxBqUj600OkuJSbjfn/view?usp=sharing)
+### <li> [Defect Reports](https://github.com/daryam1408/web/blob/main/Defect%20Reports%20-%20Web%20App%20Testing.pdf)
