@@ -7,5 +7,5 @@
 ### <li> [Test Run](https://github.com/daryam1408/web/blob/main/Test%20Run%20-%20Web%20App%20Testing.pdf)
 :red_square: A web page I created using HTML and CSS:
 ### <li> [Web Page](https://drive.google.com/file/d/1nB-8ReXpNCnPKGpxBqUj600OkuJSbjfn/view?usp=sharing)
-:red_square: Examples of using **Charles Proxy** for traffic sniffing to test the web store https://demoshopping.ru:
+:red_square: Examples of using **Charles Proxy** for traffic capturing to test the web store https://demoshopping.ru:
 ### <li> [Traffic Capturing](https://drive.google.com/drive/folders/1a6riXNGxT2jNzb952ZF6w2GTzMRu8uf1?usp=sharing)
